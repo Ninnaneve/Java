@@ -81,7 +81,7 @@ JRE（Java运行环境）
 2. javac编译，得到对应的.class字节码文件
 3. java运行，本质就是把.class加载到jvm运行
 
-![image-20220612105909626](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20220612105909626.png)
+![image-20220612105909626](https://raw.githubusercontent.com/Ninnaneve/my_pic/main/image-20220612105909626.png)
 
 ## 2.12 Java 开发快速入门
 
@@ -125,7 +125,7 @@ JRE（Java运行环境）
 
 以上6步不断循环，不断提升
 
-![image-20220612110331403](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20220612110331403.png)
+![image-20220612110331403](https://raw.githubusercontent.com/Ninnaneve/my_pic/main/image-20220612110331403.png)
 
 ## 2.15 转义字符
 
@@ -238,7 +238,7 @@ javadoc -d 文件夹名（带路径） -xx -yy 自己写的.java
 
 ### 2.19.2 绝对路径、相对路径
 
-![image-20220612111247241](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20220612111247241.png)
+![image-20220612111247241](https://cdn.jsdelivr.net/gh/Ninnaneve/my_pic@main/image-20220612111247241.png)
 
 ### 2.19.3 常用dos命令
 
