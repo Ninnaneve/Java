@@ -81,7 +81,7 @@ JRE（Java运行环境）
 2. javac编译，得到对应的.class字节码文件
 3. java运行，本质就是把.class加载到jvm运行
 
-![image-20220612105909626](https://raw.githubusercontent.com/Ninnaneve/my_pic/main/image-20220612105909626.png)
+![image-20220629224644301](https://cdn.jsdelivr.net/gh/Ninnaneve/my_pic@main/image-20220629224644301.png)
 
 ## 2.12 Java 开发快速入门
 
@@ -125,7 +125,7 @@ JRE（Java运行环境）
 
 以上6步不断循环，不断提升
 
-![image-20220612110331403](https://raw.githubusercontent.com/Ninnaneve/my_pic/main/image-20220612110331403.png)
+![image-20220629224703473](https://cdn.jsdelivr.net/gh/Ninnaneve/my_pic@main/image-20220629224703473.png)
 
 ## 2.15 转义字符
 
