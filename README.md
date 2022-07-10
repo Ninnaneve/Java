@@ -2,4 +2,4 @@
 
 - JavaSE
 - MySQL
-- projects（待整理更新）
+- projects
